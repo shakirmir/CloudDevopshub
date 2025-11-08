@@ -18,7 +18,7 @@
   - sudo systemctl enable jenkins
   - sudo systemctl start jenkins
 
-### Note: create a firewall rule and allow all
+### Note: create a firewall rule and allow all in GCP 
 
 - http://34.47.219.98:8080/login?from=%2F
 
@@ -27,6 +27,6 @@
  - cat /var/lib/jenkins/secrets/initialAdminPassword
   
 install suggested pluggins
-un: admin
-pwd: admin
+- un: admin
+- pwd: admin
 

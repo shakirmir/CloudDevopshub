@@ -29,6 +29,16 @@
     - git branch -M main [rename branch name]
     - git remote add origin https://github.com/shakirmir/Day-2-git.git
     - git push -u origin main
+============================
+### GIT Advanced commands
+- git stash
+- git rebase
+- git squash 
+    - multiple commits in one commit and raise a single PR before merging 
+- git reset  commitid
+- git reset filenamwe
+- git fetch [ show the changes done not merge in local]
+- git pull [ merge all the changes done in remote and local ]
 
 
 

@@ -1,0 +1,20 @@
+## 
+- java based spring boot application with Maven with CI configuration
+###
+* how to build java code?
+- mvn package
+* install maven
+- sudo apt install maven -y
+* when we start building java
+- dependencies will download
+***********
+* will run in our local system
+- java -jar <localtion of jar file> --server.port=8083
+* run it in ubuntu server
+- java -jar <localtion of jar file> --server.port=8086
+
+************
+* POM.xml 
+- project object model 
+- project related dependencies are present
+

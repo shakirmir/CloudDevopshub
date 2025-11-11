@@ -1,4 +1,10 @@
 ## CI ##
+### Install Java 
+- sudo apt-get install default-jre
+- sudo apt-get update
+- sudo apt-get install -y openjdk-21-jdk   # or openjdk-17-jdk if you prefer LTS
+- javac -version
+- java -version
 ### Jenkins
 - Install Jenkins on ubuntu 
  - follow the instructions in the link below - 

@@ -4,6 +4,7 @@ Date-10/11/2025 -Mon
 - Goto Manage jenkins>users
 
 # CI - Continuos Integration
+
 - when developer develops code in local and pushes his commits and code automatically 
 starts compile,tests and build and create an artifact for deployment ,this process is 
 known as CI.
@@ -13,7 +14,8 @@ known as CI.
 
 - ![screenshots](./images-screenshots/jenkins-2-build.png)
 
-* Configure Poll SCM 
+# Configure Poll SCM 
+
 - * * * * * [ run every minute]
 - ![screenshots](./images-screenshots/jenkins-3-trigger.png)
 

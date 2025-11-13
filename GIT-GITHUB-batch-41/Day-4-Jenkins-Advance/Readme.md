@@ -9,7 +9,7 @@ starts compile,tests and build and create an artifact for deployment ,this proce
 known as CI.
 - CI is used to automate the build process.
 - ![screenshots](./images-screenshots/jenkins-1-source-code-.png)
-- ![screenshots](./images-screenshots/jenkins-2-build-process.png)
+- ![screenshots](./images-screenshots/jenkins-2-build.png)
 - ![screenshots](./images-screenshots/jenkins-3-trigger.png)
 
 - Configure Poll SCM 

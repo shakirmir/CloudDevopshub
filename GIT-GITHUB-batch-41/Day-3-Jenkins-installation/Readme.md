@@ -37,4 +37,5 @@ install suggested pluggins
 - pwd: admin
 ### install maven - java build tool
 - sudo apt install maven
-
+### screenshots
+- ![]

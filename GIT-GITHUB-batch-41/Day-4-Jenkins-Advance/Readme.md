@@ -8,11 +8,14 @@ Date-10/11/2025 -Mon
 starts compile,tests and build and create an artifact for deployment ,this process is 
 known as CI.
 - CI is used to automate the build process.
-1. ![screenshots](./images-screenshots/jenkins-1-source-code-.png)
-2. ![screenshots](./images-screenshots/jenkins-2-build.png)
-3. ![screenshots](./images-screenshots/jenkins-3-trigger.png)
 
-###
-- Configure Poll SCM 
+- ![screenshots](./images-screenshots/jenkins-1-source-code-.png)
+
+- ![screenshots](./images-screenshots/jenkins-2-build.png)
+
+* Configure Poll SCM 
 - * * * * * [ run every minute]
+- ![screenshots](./images-screenshots/jenkins-3-trigger.png)
+
+
 
